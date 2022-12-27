@@ -1,4 +1,4 @@
-## NSI SPA
+## SPA VUE 3, VITE, Eslint, Typescript, Tailwind, FSD Starter project
 
 ## ENVIRONMENT
 
